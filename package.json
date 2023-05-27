@@ -1,0 +1,16 @@
+{
+  "name": "my-first-node-app",
+  "version": "1.0.0",
+  "description": "sample app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon app.js",
+    "watch": "nodemon"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
